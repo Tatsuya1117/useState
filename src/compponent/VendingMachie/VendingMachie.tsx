@@ -14,7 +14,7 @@ export const VendingMachie: FC = () => {
   const insertCoin = () => {
     setCoins(coins + 1);
   }
-  // 購入
+  // 購入する
   const buy = () => {
     if(coins < 3) {
         return;
