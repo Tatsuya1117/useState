@@ -1,5 +1,3 @@
-"use client";
-
 import { FC, useState } from "react";
 import styles from "./VendingMachie.module.scss";
 
